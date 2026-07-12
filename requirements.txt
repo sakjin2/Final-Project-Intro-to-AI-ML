@@ -1,7 +1,0 @@
-transformers<5.0.0
-torch
-faiss-cpu
-sentence-transformers
-pdfplumber
-google-genai
-gradio
