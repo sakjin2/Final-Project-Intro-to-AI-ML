@@ -53,7 +53,7 @@ Run all cells top to bottom. The first cell clones this repo (including all PDFs
 ```
 Final-Project-Intro-to-AI-ML/
 ├── Readme.md
-├── .gitignore
+├── requirements.txt
 ├── Colab_File_Link
 ├── writeup.pdf
 ├── Final_Project.ipynb
