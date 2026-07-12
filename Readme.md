@@ -11,7 +11,7 @@ requirements etc. by retrieving relevant sections from official institute rulebo
 - **Embeddings:** `sentence-transformers/all-MiniLM-L6-v2` 
 - **Vector search:** FAISS `IndexFlatIP` (cosine similarity via L2 normalization), top-5 retrieval
 - **Grounding:** results below a 0.25 similarity threshold are discarded;if nothing clears the bar, the assistant returns "I don't know"
-- **Generation:** Gemini 3.1 Flash Lite, prompted to answer only from retrieved context and never mentions " answering from the provided text"
+- **Generation:** Gemini 3.1 Flash Lite, prompted to answer only from retrieved context and never mentions " answering from the provided text"(This was actually done after observing it's behaviour as it didn't seem like an assistant that way)
 - **Source display:** every answer lists which PDF(s) it was grounded in
 - **Interface:** Gradio `ChatInterface`, launched with a public share link
 
