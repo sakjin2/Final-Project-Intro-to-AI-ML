@@ -59,9 +59,9 @@ Final-Project-Intro-to-AI-ML/
 ├── Final_Project.ipynb
 └── pdf/
     ├── ugrulebook.pdf
-    ├── mtech_mba_rules.pdf
+    ├── Mtech_Mba_Rules.pdf
     ├── phd_rules.pdf
-    ├── m_eng_rules.pdf
+    ├── M_Eng_Masters_Rules.pdf
     ├── IDDDP_rules.pdf
     ├── grading.pdf
     ├── academic_calendar.pdf
